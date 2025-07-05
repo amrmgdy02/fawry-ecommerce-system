@@ -1,0 +1,121 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Build directories
+build/
+bin/
+obj/
+debug/
+release/
+Debug/
+Release/
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# QtCreator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.moc.cpp
+*.qm
+*.prl
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Temporary files
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+*.*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows batch files (build scripts)
+*.bat
+
+# Log files
+*.log
+
+# Core dumps
+core
+*.core
+
+# Memory profiling
+*.prof
+*.heap
+
+# Text editor backups
+*~
+*.bak
+*.orig
+
+# Package files (if using package managers)
+conan.lock
+conanbuildinfo.*
+vcpkg_installed/
+
+# Documentation build
+docs/_build/
+*.pdf
+
+# Test outputs
+test_*
+testing/
